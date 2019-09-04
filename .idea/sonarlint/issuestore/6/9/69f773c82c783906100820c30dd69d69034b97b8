@@ -1,0 +1,16 @@
+
+Lsquid:S1068.")Remove this unused "scale" private field.(ó‘¸±ÿÿÿÿÿ8À·âêÍ-
+rsquid:S001162"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¿“Æıÿÿÿÿ8ˆÆêÍ-
+zsquid:UselessImportCheck""JRemove this unused import 'com.google.ar.sceneform.ux.RotationController'.(Ë‹µÿÿÿÿÿ8ãÂÕÏ-
+nsquid:UselessImportCheck">Remove this unused import 'android.view.ScaleGestureDetector'.(İ”íøıÿÿÿÿ8À·âêÍ-
+rsquid:UselessImportCheck#"GRemove this unused import 'com.google.ar.sceneform.ux.ScaleController'.(²ÙÔÅ8ãÂÕÏ-
+dsquid:UselessImportCheck"9Remove this unused import 'com.google.ar.core.HitResult'.(’îéŸ8ãÂÕÏ-
+asquid:UselessImportCheck"1Remove this unused import 'android.view.Gravity'.(ÎÎÎıÿÿÿÿ8ØÁ­ÈÍ-
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëÿƒìÍ-
+Ksquid:S1604I"(Make this anonymous inner class a lambda(‚Ö®üÿÿÿÿ8ãÂÕÏ-
+Jsquid:S10682"'Remove this unused "TAG" private field.(½¿“Æıÿÿÿÿ8À·âêÍ-
+Ksquid:S1604o"(Make this anonymous inner class a lambda(Ğ‡©ÿÿÿÿÿ8ãÂÕÏ-
+Fsquid:S1604b"(Make this anonymous inner class a lambda(ëşÊ¹8ÑÁ—ÈÍ-
+Asquid:S1148P"#Use a logger to log this exception.(Ç’Çê8ãÂÕÏ-
+hsquid:UselessImportCheck	"8Remove this unused import 'android.util.DisplayMetrics'.(Æ…Ú×ùÿÿÿÿ8¤½¯ëÍ-
+asquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8À·âêÍ-

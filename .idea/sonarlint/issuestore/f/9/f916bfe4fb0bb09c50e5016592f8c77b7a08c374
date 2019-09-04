@@ -1,0 +1,47 @@
+
+usquid:S1450 "RRemove the "dy2" field and declare it as a local variable in the relevant methods.(†å÷Àıÿÿÿÿ8òŒ°ïÍ-
+Ysquid:S1854":Remove this useless assignment to local variable "square".(ÊË÷õ8òŒ°ïÍ-
+vsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Şú†´üÿÿÿÿ8òŒ°ïÍ-
+Ssquid:S1066Û"/Merge this if statement with the enclosing one.(À‹‚²øÿÿÿÿ8òŒ°ïÍ-
+X"squid:SwitchLastCaseIsDefaultCheck¢""Add a default case to this switch.(úé¢å8òŒ°ïÍ-
+usquid:S3776D"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºØ¶©øÿÿÿÿ8€ÃÕÏ-
+rsquid:S00116="NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à£³°üÿÿÿÿ8òŒ°ïÍ-
+zsquid:S1450'"WRemove the "rotation" field and declare it as a local variable in the relevant methods.(Û÷¥²şÿÿÿÿ8òŒ°ïÍ-
+Ysquid:S1854”":Remove this useless assignment to local variable "square".(óšˆî8òŒ°ïÍ-
+Ysquid:S1854—":Remove this useless assignment to local variable "square".(óšˆî8òŒ°ïÍ-
+Usquid:S1068#"2Remove this unused "previousLength" private field.(¸‘§ßúÿÿÿÿ8é¸±ïÍ-
+}squid:S14503"ZRemove the "touchStatus" field and declare it as a local variable in the relevant methods.(éÙïÔùÿÿÿÿ8òŒ°ïÍ-
+hsquid:UselessImportCheck
+"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ8§Î¬ïÍ-
+^squid:S1854‹":Remove this useless assignment to local variable "square".(Š”Ÿüÿÿÿÿ8òŒ°ïÍ-
+squid:S1450%"\Remove the "currentPress2" field and declare it as a local variable in the relevant methods.(ˆ¸ãÓşÿÿÿÿ8òŒ°ïÍ-
+Msquid:S1068""*Remove this unused "length" private field.(ìä©Ôúÿÿÿÿ8é¸±ïÍ-
+osquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(‚ÀáÔÿÿÿÿÿ8€ÃÕÏ-
+Lsquid:S1068,".Remove this unused "isRotating" private field.(­…÷Á8òŒ°ïÍ-
+ysquid:S1450œ"URemove the "newRot" field and declare it as a local variable in the relevant methods.(îûÅÈÿÿÿÿÿ8òŒ°ïÍ-
+usquid:S1450"RRemove the "dx2" field and declare it as a local variable in the relevant methods.(çİÆùÿÿÿÿ8™ğ¢ïÍ-
+wsquid:S1450,"YRemove the "isRotating" field and declare it as a local variable in the relevant methods.(­…÷Á8òŒ°ïÍ-
+^squid:S1854†":Remove this useless assignment to local variable "square".(Üé…Õüÿÿÿÿ8òŒ°ïÍ-
+osquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(¢úÑôøÿÿÿÿ8€ÃÕÏ-
+Ysquid:S1854‘":Remove this useless assignment to local variable "square".(ÊË÷õ8òŒ°ïÍ-
+ksquid:S1871Š"MThis branch's code block is the same as the block for the branch on line 391.(ÑÏ‘8ôã«ïÍ-
+ƒsquid:S1450*"eRemove the "isOneFixedAndOneMoving" field and declare it as a local variable in the relevant methods.(Ù‚ìı8òŒ°ïÍ-
+Osquid:S1481‚"+Remove this unused "square" local variable.(·šß•üÿÿÿÿ8òŒ°ïÍ-
+Nsquid:S00108Ä")Either remove or fill this block of code.(ÿ÷Ù¸şÿÿÿÿ8òŒ°ïÍ-
+Wsquid:UselessParenthesesCheck¸"!Remove these useless parentheses.(ª€Á¶ıÿÿÿÿ8òŒ°ïÍ-
+rsquid:S1450/"URemove the "moving" field and declare it as a local variable in the relevant methods.(Ü‰©8òŒ°ïÍ-
+~squid:S1450"[Remove the "pointerCount" field and declare it as a local variable in the relevant methods.(¥€Á™şÿÿÿÿ8òŒ°ïÍ-
+Gsquid:S1068/"*Remove this unused "moving" private field.(Ü‰©8òŒ°ïÍ-
+^squid:S1854ˆ":Remove this useless assignment to local variable "square".(Š”Ÿüÿÿÿÿ8òŒ°ïÍ-
+vsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(„‘—‰ıÿÿÿÿ8òŒ°ïÍ-
+\"squid:SwitchLastCaseIsDefaultCheckm""Add a default case to this switch.(¥–Ş€øÿÿÿÿ8òŒ°ïÍ-
+xsquid:S1450""URemove the "length" field and declare it as a local variable in the relevant methods.(ìä©Ôúÿÿÿÿ8é¸±ïÍ-
+^squid:S1854„":Remove this useless assignment to local variable "square".(Üé…Õüÿÿÿÿ8òŒ°ïÍ-
+qsquid:S1871"MThis branch's code block is the same as the block for the branch on line 397.(åŞç„ÿÿÿÿÿ8ôã«ïÍ-
+Tsquid:S1068%"1Remove this unused "currentPress2" private field.(ˆ¸ãÓşÿÿÿÿ8òŒ°ïÍ-
+Rsquid:S10683"/Remove this unused "touchStatus" private field.(éÙïÔùÿÿÿÿ8òŒ°ïÍ-
+€squid:S1450#"]Remove the "previousLength" field and declare it as a local variable in the relevant methods.(¸‘§ßúÿÿÿÿ8é¸±ïÍ-
+qsquid:S1871–"MThis branch's code block is the same as the block for the branch on line 403.(áèÎüÿÿÿÿ8ôã«ïÍ-
+^squid:S1068"@Remove this unused "TOUCH_STATUS_ROTATING_CAMERA" private field.(´‹±ı8òŒ°ïÍ-
+Osquid:S1068'",Remove this unused "rotation" private field.(Û÷¥²şÿÿÿÿ8òŒ°ïÍ-
+Ssquid:S1172D"0Remove this unused method parameter "finalNode".(ºØ¶©øÿÿÿÿ8€ÃÕÏ-
